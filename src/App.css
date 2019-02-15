@@ -10,6 +10,11 @@
   color: white;
 }
 
+.Author {
+  font-size: calc(8px + 2vmin);
+  color: green;
+}
+
 
 .more {
   background: green;
